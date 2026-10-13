@@ -1,0 +1,6 @@
+{
+  "name": "Goalify - Yearly & Daily Goal Tracker (Android Studio & Native App)",
+  "description": "Ứng dụng Android Native Offline theo mô hình Top-Down Goal Setting (Yearly -> Monthly -> Weekly -> Daily) kèm Clean Architecture, Jetpack Compose, Room DB, AdMob & Billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
